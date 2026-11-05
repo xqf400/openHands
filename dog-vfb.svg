@@ -1,0 +1,75 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hund im rot-weißen Trikot</title>
+  <desc id="desc">Illustration eines Hundes in einem rot-weißen Fußballtrikot im Stil von VfB Stuttgart.</desc>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="840" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2B0505"/>
+      <stop offset="1" stop-color="#120101"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="300" y1="240" x2="660" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e10600"/>
+      <stop offset="1" stop-color="#9f0500"/>
+    </linearGradient>
+    <linearGradient id="fur" x1="280" y1="150" x2="640" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7b4a2a"/>
+      <stop offset="1" stop-color="#4c2f1b"/>
+    </linearGradient>
+    <radialGradient id="shine" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(480 250) rotate(90) scale(250 280)">
+      <stop stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="120" y="100" width="720" height="560" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect width="960" height="720" rx="40" fill="url(#bg)"/>
+  <circle cx="480" cy="300" r="240" fill="url(#shine)"/>
+  <g filter="url(#shadow)">
+    <ellipse cx="480" cy="548" rx="210" ry="70" fill="#000000" fill-opacity="0.35"/>
+    <path d="M264 225C264 180 299 145 344 145H616C661 145 696 180 696 225V455C696 518 645 569 582 569H378C315 569 264 518 264 455V225Z" fill="url(#shirt)"/>
+    <path d="M320 216C320 202 331 191 345 191H615C629 191 640 202 640 216V260C640 274 629 285 615 285H345C331 285 320 274 320 260V216Z" fill="#ffffff"/>
+    <path d="M320 314C320 300 331 289 345 289H615C629 289 640 300 640 314V358C640 372 629 383 615 383H345C331 383 320 372 320 358V314Z" fill="#ffffff"/>
+    <path d="M320 412C320 398 331 387 345 387H615C629 387 640 398 640 412V456C640 470 629 481 615 481H345C331 481 320 470 320 456V412Z" fill="#ffffff"/>
+    <path d="M390 145L360 188H600L570 145H390Z" fill="#ffffff"/>
+    <path d="M420 145L390 188H570L540 145H420Z" fill="#e10600"/>
+    <ellipse cx="480" cy="204" rx="32" ry="20" fill="#ffffff"/>
+    <path d="M438 222H522V248C522 271 504 289 480 289C456 289 438 271 438 248V222Z" fill="#fff7f7"/>
+    <path d="M420 289H540V304H420V289Z" fill="#fff7f7"/>
+    <path d="M450 304H510V377H450V304Z" fill="#ffffff"/>
+    <path d="M392 320H415V449H392V320Z" fill="#ffffff"/>
+    <path d="M545 320H568V449H545V320Z" fill="#ffffff"/>
+    <path d="M438 306H522V430H438V306Z" fill="url(#shirt)"/>
+    <path d="M387 319H424V351H387V319Z" fill="#ffffff"/>
+    <path d="M536 319H573V351H536V319Z" fill="#ffffff"/>
+    <path d="M368 452H431V498C431 516 416 531 398 531C380 531 368 516 368 498V452Z" fill="#ffffff"/>
+    <path d="M529 452H592V498C592 516 577 531 559 531C541 531 529 516 529 498V452Z" fill="#ffffff"/>
+    <path d="M300 188C270 176 252 149 252 118C252 77 285 44 326 44H340C381 44 414 77 414 118C414 149 396 176 366 188L336 200L300 188Z" fill="url(#fur)"/>
+    <path d="M660 188C690 176 708 149 708 118C708 77 675 44 634 44H620C579 44 546 77 546 118C546 149 564 176 594 188L624 200L660 188Z" fill="url(#fur)"/>
+    <path d="M332 152C332 121 357 96 388 96H572C603 96 628 121 628 152V206C628 274 574 328 506 328H454C386 328 332 274 332 206V152Z" fill="url(#fur)"/>
+    <ellipse cx="386" cy="178" rx="18" ry="22" fill="#1d0f08"/>
+    <ellipse cx="574" cy="178" rx="18" ry="22" fill="#1d0f08"/>
+    <circle cx="381" cy="173" r="5" fill="#ffffff"/>
+    <circle cx="569" cy="173" r="5" fill="#ffffff"/>
+    <path d="M442 215C442 197 456 183 474 183H486C504 183 518 197 518 215V224C518 235 509 244 498 244H462C451 244 442 235 442 224V215Z" fill="#1a0b06"/>
+    <path d="M461 244H499L494 270C492 280 483 287 473 287C463 287 454 280 452 270L461 244Z" fill="#6b2f1d"/>
+    <path d="M470 287L456 314H505L491 287H470Z" fill="#fff7f7"/>
+    <path d="M334 270C292 287 266 326 266 374V450C266 486 294 514 330 514H360V382C360 337 373 304 392 287L334 270Z" fill="url(#fur)"/>
+    <path d="M626 270C668 287 694 326 694 374V450C694 486 666 514 630 514H600V382C600 337 587 304 568 287L626 270Z" fill="url(#fur)"/>
+    <path d="M284 390C270 394 258 406 252 423C245 442 250 464 264 478L285 499L312 476L297 457C289 447 287 433 292 421L298 406L284 390Z" fill="url(#fur)"/>
+    <path d="M676 390C690 394 702 406 708 423C715 442 710 464 696 478L675 499L648 476L663 457C671 447 673 433 668 421L662 406L676 390Z" fill="url(#fur)"/>
+    <path d="M289 487H324V598C324 615 310 629 293 629C276 629 262 615 262 598V514C262 499 274 487 289 487Z" fill="#f5efe8"/>
+    <path d="M636 487H671C686 487 698 499 698 514V598C698 615 684 629 667 629C650 629 636 615 636 598V487Z" fill="#f5efe8"/>
+    <path d="M296 591H331V607H296V591Z" fill="#e10600"/>
+    <path d="M629 591H664V607H629V591Z" fill="#e10600"/>
+    <path d="M380 147C390 127 411 113 434 113H526C549 113 570 127 580 147L592 170H368L380 147Z" fill="#f3dfcf"/>
+    <path d="M360 196C360 177 376 161 395 161H565C584 161 600 177 600 196V221H360V196Z" fill="#fff7f7" fill-opacity="0.42"/>
+    <path d="M340 236H620" stroke="#fff7f7" stroke-opacity="0.8" stroke-width="8" stroke-linecap="round"/>
+    <path d="M340 334H620" stroke="#fff7f7" stroke-opacity="0.85" stroke-width="8" stroke-linecap="round"/>
+    <path d="M340 432H620" stroke="#fff7f7" stroke-opacity="0.85" stroke-width="8" stroke-linecap="round"/>
+    <path d="M383 305H577" stroke="#ffffff" stroke-opacity="0.8" stroke-width="6" stroke-linecap="round"/>
+    <path d="M395 404H565" stroke="#ffffff" stroke-opacity="0.8" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="406" cy="361" r="7" fill="#ffffff"/>
+    <circle cx="554" cy="361" r="7" fill="#ffffff"/>
+    <path d="M412 270C422 258 437 250 454 250H506C523 250 538 258 548 270" stroke="#fff7f7" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
