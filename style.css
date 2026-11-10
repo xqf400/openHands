@@ -129,11 +129,30 @@ h1 span {
   border: 1px solid var(--line);
 }
 
-.dog-frame img {
+.dog-frame img,
+.house-frame img {
   width: min(100%, 560px);
   height: auto;
   display: block;
   filter: drop-shadow(0 18px 30px rgba(0, 0, 0, 0.35));
+}
+
+.house-frame {
+  display: grid;
+  place-items: center;
+}
+
+.house-button {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 18px;
+}
+
+.house-button:focus-visible {
+  outline: 3px solid #ffd6d6;
+  outline-offset: 6px;
 }
 
 .footer {
